@@ -17,9 +17,7 @@ Document for flashloan bot
 
 5.Setting environment variable for bot running.
 	- Open .env file
-	Edit under image![Screenshot 2024-07-19 112905](https://github.com/user-attachments/assets/da75076f-c2a6-47f9-b5fd-f09250751dc1)
-![Screenshot 2024-07-19 112901](https://github.com/user-attachments/assets/d0aaba5e-1b26-49ff-986c-75caef20716d)
-![Screenshot 2024-07-19 112852](https://github.com/user-attachments/assets/81ebfbb9-99de-4822-9d6c-1e5254ceacad)
+	Edit under image![Screenshot 2024-07-19 112905]
 
 
 
