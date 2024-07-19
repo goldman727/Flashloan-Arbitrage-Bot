@@ -1,0 +1,27 @@
+{
+  "name": "flashloanarbitrage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "orest",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@aave/core-v3": "^1.19.3",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts": "^5.0.2",
+    "@sushiswap/core": "^1.4.2",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.6"
+  },
+  "dependencies": {
+    "@sushiswap/sdk": "^4.1.1",
+    "@sushiswap/sushiswap": "^0.1.1",
+    "@uniswap/v2-sdk": "^4.4.1",
+    "ffjavascript": "^0.2.63"
+  }
+}
