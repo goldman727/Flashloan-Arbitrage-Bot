@@ -301,7 +301,6 @@ async function getPriceFromUniswap(){
     const price = finalAmountIn / finalAmountOut;
     return price;
 }
-
 // get price from sushiswap
 async function getPriceFromSushiswap() {
 
@@ -351,7 +350,6 @@ async function getPriceFromSushiswap() {
     const sushiswap_price = sushiswap_finalAmountIn / sushiswap_finalAmountOut;
     return sushiswap_price;
 }
-
 // Placeholder function to calculate profit
 async function calculateProfit() {
     // Implement logic to calculate the profit from the last trade
